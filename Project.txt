@@ -1,0 +1,39 @@
+ 1) All people forgets passwords of social mediea  
+ 
+Solution: Create a app that will Content passwords of social meadie and their notes too.
+
+ 2)  Some peoples forget the main conversation.
+
+Solution: Call recording app.
+
+ 3) Some students have issues in their studies.
+
+Solution: Exam Study App.
+
+ 4) Some people love to learn new  .
+
+Solution:  language translator.
+
+5) Some people are tired of there lives.
+
+Solution: Suicide Control App.
+
+6) Some people don't have time to shop .
+
+Solution: Shopping App.
+
+7)  some people love to read but can't affort books.
+
+Solution: Story Writing And Sharing App.
+
+8) some people love to do DIY's but don't have idea what they should do.
+
+Solution: DIY Encouragement App.
+
+9) some people don't have time to have a doctor meeting.
+
+Solution: Health Video Chat App.
+
+10) some people are distracked from goals.
+
+Solution: Goal tracking app.
